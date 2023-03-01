@@ -4,11 +4,11 @@
 
 I am a student in the MIT xPro full-stack web development bootcamp. This portfolio will document my new path towards becoming a software engineer.
 ## 🚀 About Me
-I am a polymath from Utah, but currently residing in New York City. I am a member of the Navajo Nation with a wide ranging skillset from fine art and classical piano to wilderness survival and auto mechanics. I found computer programming thanks to Google's user experience course. The elation from creating an interactive prototype for an art history app immediately sparked curiosity; how do I build it in its entirety from the ground up? That curiosity quickly morphed into obsession, and thus began my coding journey. 
+I am from Utah and a member of the Navajo Nation. I have a wide ranging skillset from fine art and classical piano to wilderness survival and auto mechanics. I found computer programming thanks to Google's user experience course. The elation from creating an interactive prototype for an art history app immediately sparked curiosity; how do I build it in its entirety from the ground up? That curiosity quickly morphed into obsession, and thus began my coding journey. 
 
 
 ## 🛠 Skills
-Fine art (charcoal portraiture, oil/acrylic painting, pinstriping), graphic design, classical piano, banjo, auto mechanics
+Fine art (charcoal portraiture, oil/acrylic painting, pinstriping), graphic design, classical piano, banjo, auto mechanics, office administration
 
 
 ## 🧠 I'm currently learning...
