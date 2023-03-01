@@ -1,3 +1,4 @@
+![Logo](https://raw.githubusercontent.com/annanizhoni/annanizhoni/main/GitHubBanner.png)
 
 # Hi, I'm Anna! 👋🏻
 
