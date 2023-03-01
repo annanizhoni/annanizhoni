@@ -1,4 +1,4 @@
-![Logo]()
+![Logo](https://raw.githubusercontent.com/annanizhoni/annanizhoni/38825d09545f56779d0a4f258a76635e99d7c528/GitHub%20Banner.svg)
 
 # Hi, I'm Anna! 👋🏻
 
