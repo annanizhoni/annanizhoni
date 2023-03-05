@@ -13,8 +13,11 @@ Fine art (charcoal portraiture, oil/acrylic painting, pinstriping), graphic desi
 
 ## 🧠 I'm currently learning...
 [![javascript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=plastic)
-[![cpp](https://img.shields.io/badge/-C++-00599C?logo=cpp&logoColor=white&style=plastic)
-HTML, CSS, MERN stack, UX design, Figma, and Adobe Creative Suite
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white&style=plastic)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white&style=plastic)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white&style=plastic)
+![Adobe Creative Cloud](https://img.shields.io/badge/Adobe%20Creative%20Cloud-DA1F26.svg?style=for-the-badge&logo=Adobe%20Creative%20Cloud&logoColor=white&style=plastic)
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white&style=plastic)
 
 
 ## 👩🏻‍💻 I'm currently working on...
