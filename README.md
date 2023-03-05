@@ -12,8 +12,8 @@ Fine art (charcoal portraiture, oil/acrylic painting, pinstriping), graphic desi
 
 
 ## 🧠 I'm currently learning...
-[![javascript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=plastic)
-[![cpp](https://img.shields.io/badge/-C++-00599C?logo=c++&logoColor=white&style=plastic)
+[!javascript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=plastic)
+[!cpp](https://img.shields.io/badge/-C++-00599C?logo=c++&logoColor=white&style=plastic)
 HTML, CSS, MERN stack, UX design, Figma, and Adobe Creative Suite
 
 
