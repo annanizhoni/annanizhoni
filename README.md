@@ -29,5 +29,3 @@ Building websites for an auto repair shop and handmade paper flower store, as we
 [![instagram](https://img.shields.io/badge/Instagram-E4405F?style=plastic&logo=instagram&logoColor=white)](https://www.instagram.com/anna.nizhoni)
 
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=plastic&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
-
-[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=plastic&logo=twitter&logoColor=white)](https://twitter.com/)
